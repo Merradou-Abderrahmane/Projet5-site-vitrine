@@ -37,12 +37,19 @@
 }
 .images-container .image1-container img{
 
-   width: 80%;
+   width: 100%;
+}
+h2{
+   padding: 20px;
+}
+
+p {
+   padding: 20px;
 }
 
 .images-container .image2-container img{
 
-   width: 80%;
+   width: 100%;
 }
 
 .images-container img {

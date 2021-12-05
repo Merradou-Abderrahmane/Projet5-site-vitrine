@@ -74,7 +74,7 @@ body {
 
 
 body{
-    background-color : rgb(181, 218, 124);
+    background-color : rgb(62, 65, 80);
 }
 .products-ultimate-container .new-container h2 {
 
@@ -131,8 +131,23 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    
  
+}
+.racket1-container button,
+.racket2-container button,
+.racket3-container button,
+.racket4-container button{
+    background-color: rgb(212, 247, 131);
+    border: none;
+    color: black;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
 }
 
 .racket1-container:hover,
@@ -194,6 +209,22 @@ body{
     align-items: center;
     
     
+}
+.polo-t-shirt-container1 button,
+.polo-t-shirt-container2 button,
+.sneaker-container button,
+.short-container button{
+    background-color: rgb(212, 247, 131);
+    border: none;
+    color: black;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
 }
 
 .polo-t-shirt-container1:hover,
