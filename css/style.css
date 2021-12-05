@@ -14,6 +14,7 @@
     padding: 0;
 }
 
+
 body {
 
     overflow-x: hidden;
@@ -21,13 +22,12 @@ body {
 
 /* navbar starts */
 
-.nav-container .nav-list ul  li {
 
+.nav-container .nav-list ul  li { 
     display: inline;
     margin-left: 40px;
    
 }
-
 
 .nav-container  li:hover {
     color: var(--hovering-color) ;
@@ -46,7 +46,6 @@ body {
     color: #fff;
     font-family: var(--universal-font);
     font-weight:bold;
-    cursor: pointer;
     width: 100%;
 
 
